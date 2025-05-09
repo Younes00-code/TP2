@@ -20,3 +20,9 @@ Chaque projet contient :
 *Un exemple de structure REST avec les endpoints d’insertion et de récupération des données.
 
 ![image](https://github.com/user-attachments/assets/0203cc69-6c2b-4767-8872-0172992ba6f7)
+
+![image](https://github.com/user-attachments/assets/bfe0a2e4-06c2-4232-bd50-531744a325cb)
+
+![image](https://github.com/user-attachments/assets/f5b3e4ca-62c6-436b-8e1c-b905b2229839)
+
+
